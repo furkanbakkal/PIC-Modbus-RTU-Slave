@@ -52,4 +52,11 @@ LED  -> PIN_C4
 
 ------------------
 
+## Serial Port Settings:
 
+Baudrate: 9600 
+Data Bit: 8 
+Parity Bit: Even
+Stop Bit: 1
+
+------------------
