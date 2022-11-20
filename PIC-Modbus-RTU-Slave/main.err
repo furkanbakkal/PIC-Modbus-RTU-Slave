@@ -1,0 +1,8 @@
+Compiling G:\Unity\ModBus-Test\modbus_test\main on 20-Kas-22 at 18:16
+--- Info 300 "G:\Program Files (x86)\PICC\Drivers\modbus_phy_layer_rtu.c" Line 25(1,1): More info:   Timer 1 tick time is 128,00 us
+>>> Warning 216 "G:\Unity\ModBus-Test\modbus_test\main.c" Line 155(1,2): Interrupts disabled during call to prevent re-entrancy:  (@GETCH_BIU_1)
+>>> Warning 216 "G:\Unity\ModBus-Test\modbus_test\main.c" Line 155(1,2): Interrupts disabled during call to prevent re-entrancy:  (modbus_calc_crc)
+>>> Warning 216 "G:\Unity\ModBus-Test\modbus_test\main.c" Line 155(1,2): Interrupts disabled during call to prevent re-entrancy:  (modbus_enable_timeout)
+      Memory usage:   ROM=9%      RAM=7% - 8%
+      0 Errors,  3 Warnings.
+Build Successful.
