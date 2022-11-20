@@ -1,6 +1,8 @@
 # PIC-Modbus-RTU-Slave
 PIC18F4520 Modbus RTU as Slave - Led Blink
 
+Project tested with PIC18F4520, compiler CCS and Python 3.7
+
 ------------------
 
 ## Extra Components for Modbus Communication:
@@ -42,7 +44,7 @@ LED  -> PIN_C4
 
 ------------------
 
-## Supported functions:
+## Supported Functions:
 
 3 : Read holding register
 
@@ -55,8 +57,13 @@ LED  -> PIN_C4
 ## Serial Port Settings:
 
 Baudrate: 9600 
+
 Data Bit: 8 
+
 Parity Bit: Even
+
 Stop Bit: 1
 
 ------------------
+
+
