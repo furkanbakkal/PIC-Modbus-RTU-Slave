@@ -1,5 +1,5 @@
 # PIC-Modbus-RTU-Slave
-PIC18F4520 Modbus RTU as Slave - Led Blink
+PIC18F4520 Modbus RTU as Slave - Led Blink - Read Write Registers
 
 Project tested with PIC18F4520, compiler CCS and Python 3.7
 
